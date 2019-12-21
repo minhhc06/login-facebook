@@ -1,0 +1,4 @@
+#Sun Dec 22 03:07:27 ICT 2019
+base.0=/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

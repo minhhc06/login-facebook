@@ -1,0 +1,275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:1:1-53:12
+MERGED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:1:1-53:12
+MERGED from [:flutter_facebook_login] /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.android:facebook-login:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-5.5.1.aar/fab8042160a13323810b6644ae27a51b/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:21:1-37:12
+MERGED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:21:1-61:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/960f5b6d8cf6067adfb66a112de24e3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/f89e15d6157719679e9a28ee9d3b425f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/browser-1.0.0-rc01.aar/04e443881fd97055bcf9ca0b15d48f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/660799e85662e7c48c388ecb65d529a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/8c5a32f81eb522304128fcf332053a2d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/5cf400f48d08aa6c87ae50493f954ec1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/de8efa84555ba22bf988bb3b4c8deabe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/073f7670288269e5e3e7ad51d7e8a279/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/d59e9c48bf6971eacb5f963c6db3ff3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/165cfd92ff31a875e01a172cabec2896/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/340fbfa305e5ab88d136313d1e4813c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/ac54e14899dc04e91bcbc43ebb442996/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/49e3b88a5ea79107bc7164032fc17d07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/18f5879845f8827bce5995a38302a451/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/4ee489fd455f9ee05406a3039012d136/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/04ffd440d85aa74011f284353c426de8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/2576ba9e36dea975ed04b2e02149373a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/4514d2b4d328b07f12dc38645ebd9325/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/efc84e54a6b886ffef0d4a2a6d291f05/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/858c4a8de07bf6e767da59750ada5624/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/aaa8aeeea259d096307e763eb730d74c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/ca7ba90e4a80f017fc607667559ac3ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/208ae470d561869a9916567d3cad4ca7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/dddb033afa75868bc0e3e8a92af86d24/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/2db4aa26e359ce6a2eb10e59d5e08d85/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/f3137ef9356e7f47850cb5675c1d2688/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/e17b00d97d29180f40487eea187e9429/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/190e1a03844fec2c58608bb42ea19e66/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:1:1-53:12
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:1:1-53:12
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:11:5-49:19
+MERGED from [com.facebook.android:facebook-login:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-5.5.1.aar/fab8042160a13323810b6644ae27a51b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-5.5.1.aar/fab8042160a13323810b6644ae27a51b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:28:5-59:19
+MERGED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:28:5-59:19
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/4514d2b4d328b07f12dc38645ebd9325/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/4514d2b4d328b07f12dc38645ebd9325/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/efc84e54a6b886ffef0d4a2a6d291f05/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/efc84e54a6b886ffef0d4a2a6d291f05/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/4514d2b4d328b07f12dc38645ebd9325/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-5.5.1.aar/fab8042160a13323810b6644ae27a51b/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:13:9-40
+	android:icon
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:14:9-43
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:12:9-57
+activity#com.myhome.my_home_project.MainActivity
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:15:9-33:20
+	android:launchMode
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:21:13-55
+	android:configChanges
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:19:13-144
+	android:theme
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:16:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:26:13-28:40
+	android:value
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:28:17-37
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:27:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:30:17-68
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:31:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:35:9-107
+	android:value
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:35:66-105
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:35:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:36:9-37:110
+MERGED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:37:75-107
+	android:configChanges
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:36:64-160
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:36:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:39:9-46:20
+MERGED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:39:65-88
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:39:19-64
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:40:13-45:29
+action#android.intent.action.VIEW
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:43:27-75
+data
+ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:44:17-75
+	android:scheme
+		ADDED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml:44:23-72
+uses-sdk
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_facebook_login] /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_login] /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.android:facebook-login:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-5.5.1.aar/fab8042160a13323810b6644ae27a51b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-login-5.5.1.aar/fab8042160a13323810b6644ae27a51b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/960f5b6d8cf6067adfb66a112de24e3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/960f5b6d8cf6067adfb66a112de24e3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/f89e15d6157719679e9a28ee9d3b425f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/f89e15d6157719679e9a28ee9d3b425f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/browser-1.0.0-rc01.aar/04e443881fd97055bcf9ca0b15d48f5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/browser-1.0.0-rc01.aar/04e443881fd97055bcf9ca0b15d48f5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/660799e85662e7c48c388ecb65d529a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/660799e85662e7c48c388ecb65d529a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/8c5a32f81eb522304128fcf332053a2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/8c5a32f81eb522304128fcf332053a2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/5cf400f48d08aa6c87ae50493f954ec1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/5cf400f48d08aa6c87ae50493f954ec1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/de8efa84555ba22bf988bb3b4c8deabe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/de8efa84555ba22bf988bb3b4c8deabe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/073f7670288269e5e3e7ad51d7e8a279/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/073f7670288269e5e3e7ad51d7e8a279/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/d59e9c48bf6971eacb5f963c6db3ff3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/d59e9c48bf6971eacb5f963c6db3ff3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/165cfd92ff31a875e01a172cabec2896/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/165cfd92ff31a875e01a172cabec2896/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/340fbfa305e5ab88d136313d1e4813c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/340fbfa305e5ab88d136313d1e4813c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/ac54e14899dc04e91bcbc43ebb442996/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/ac54e14899dc04e91bcbc43ebb442996/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/49e3b88a5ea79107bc7164032fc17d07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/49e3b88a5ea79107bc7164032fc17d07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/18f5879845f8827bce5995a38302a451/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/18f5879845f8827bce5995a38302a451/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/4ee489fd455f9ee05406a3039012d136/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/4ee489fd455f9ee05406a3039012d136/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/04ffd440d85aa74011f284353c426de8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/04ffd440d85aa74011f284353c426de8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/2576ba9e36dea975ed04b2e02149373a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/2576ba9e36dea975ed04b2e02149373a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/4514d2b4d328b07f12dc38645ebd9325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/4514d2b4d328b07f12dc38645ebd9325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/efc84e54a6b886ffef0d4a2a6d291f05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/efc84e54a6b886ffef0d4a2a6d291f05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/858c4a8de07bf6e767da59750ada5624/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/858c4a8de07bf6e767da59750ada5624/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/aaa8aeeea259d096307e763eb730d74c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/aaa8aeeea259d096307e763eb730d74c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/ca7ba90e4a80f017fc607667559ac3ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/ca7ba90e4a80f017fc607667559ac3ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/208ae470d561869a9916567d3cad4ca7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/208ae470d561869a9916567d3cad4ca7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/dddb033afa75868bc0e3e8a92af86d24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/dddb033afa75868bc0e3e8a92af86d24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/2db4aa26e359ce6a2eb10e59d5e08d85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/2db4aa26e359ce6a2eb10e59d5e08d85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/f3137ef9356e7f47850cb5675c1d2688/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/f3137ef9356e7f47850cb5675c1d2688/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/e17b00d97d29180f40487eea187e9429/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/e17b00d97d29180f40487eea187e9429/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/190e1a03844fec2c58608bb42ea19e66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/190e1a03844fec2c58608bb42ea19e66/AndroidManifest.xml:20:5-44
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/android/app/src/debug/AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-5.5.1.aar/a5b75e7046154aba9c0a09f73f1af9e2/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:48:25-92
+receiver#com.facebook.CampaignTrackingReceiver
+ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:51:9-58:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:52:13-65
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:55:13-57:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.5.1] /Users/minhhc/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-5.5.1.aar/185478156351e2e847bab70d831d9326/AndroidManifest.xml:56:25-76
