@@ -2,7 +2,8 @@
 <resources>
     <string name="app_name">MyHome</string>
 
-    <string name="facebook_app_id">556947031754407</string> <string name="fb_login_protocol_scheme">fb556947031754407</string>
+    <string name="facebook_app_id">497749854193710</string> <string name="fb_login_protocol_scheme">fb497749854193710</string>
+
 
 
 

@@ -1,0 +1,4 @@
+#Sun Dec 22 17:52:38 ICT 2019
+base.0=D\:\\FlutterIO\\LoginFacebook\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

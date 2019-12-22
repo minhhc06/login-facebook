@@ -1,50 +1,50 @@
 [
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_slide_out_bottom.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_slide_out_top.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_tooltip_exit.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_tooltip_enter.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_fade_in.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_fade_in.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_slide_in_bottom.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_popup_exit.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_popup_exit.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_slide_in_top.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_tooltip_enter.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_fade_out.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_fade_out.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_popup_enter.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_popup_enter.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\anim\\abc_popup_exit.xml"
     }
 ]

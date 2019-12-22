@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+        "merged": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\layout-watch-v20\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
     }
 ]

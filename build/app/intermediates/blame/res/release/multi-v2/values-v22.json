@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "D:\\FlutterIO\\LoginFacebook\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/values-v22/values-v22.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

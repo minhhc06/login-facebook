@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/res/merged/release/values-v16/values-v16.xml",
+            "outputFile": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/4514d2b4d328b07f12dc38645ebd9325/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\7d9caa70c52ba1a763ab8e48ded24830\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,10 +35,10 @@
             ]
         },
         {
-            "outputFile": "/Users/minhhc/Documents/FlutterIO/MyHomeApp/my_home_project/build/flutter_facebook_login/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "D:\\FlutterIO\\LoginFacebook\\build\\flutter_facebook_login\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/4514d2b4d328b07f12dc38645ebd9325/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\7d9caa70c52ba1a763ab8e48ded24830\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -48,7 +48,7 @@
                     }
                 },
                 {
-                    "source": "/Users/minhhc/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/03cc88c3be1dd66640dc3907679bcf84/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\abfee3cd8b795db09eb6f85b1f9aa1bd\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

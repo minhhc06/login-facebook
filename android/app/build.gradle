@@ -1,5 +1,6 @@
 def localProperties = new Properties()
 def localPropertiesFile = rootProject.file('local.properties')
+def keystorePropertiesFile = rootProject.file('key.properties')
 if (localPropertiesFile.exists()) {
     localPropertiesFile.withReader('UTF-8') { reader ->
         localProperties.load(reader)
@@ -26,7 +27,22 @@ apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
-    compileSdkVersion 28
+    signingConfigs {
+config {
+storeFile file('D:\\FlutterIO\\LoginFacebook\\key_store\\key.jks')
+storePassword 'android'
+keyAlias = 'key'
+    storePassword 'android'
+    keyPassword 'android'
+    keyPassword 'android'}
+        debug {
+            storeFile file('D:\\FlutterIO\\LoginFacebook\\key_store\\key.jks')
+            storePassword 'android'
+            keyAlias = 'key'
+            keyPassword 'android'
+        }
+    }
+compileSdkVersion 28
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
@@ -36,6 +52,12 @@ android {
         disable 'InvalidPackage'
     }
 
+
+
+
+
+
+
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.myhome.my_home_project"
@@ -44,13 +66,29 @@ android {
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        signingConfig signingConfigs.config
     }
 
     buildTypes {
         release {
             // TODO: Add your own signing config for the release build.
             // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig signingConfigs.debug
+            signingConfig signingConfigs.config
+            debuggable = true
+
+            minifyEnabled true
+            useProguard true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            signingConfig signingConfigs.config
+            renderscriptDebuggable = false
+            jniDebuggable = false
+            debuggable = true
+        }
+        profile {
+            signingConfig signingConfigs.config
+            debuggable = true
         }
     }
 }
